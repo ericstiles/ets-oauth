@@ -1,0 +1,22 @@
+{
+  "name": "ets-oauth",
+  "version": "1.0.0",
+  "description": "ets-oauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericstiles/ets-oauth.git"
+  },
+  "keywords": [
+    "ets-oauth"
+  ],
+  "author": "eric stiles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericstiles/ets-oauth/issues"
+  },
+  "homepage": "https://github.com/ericstiles/ets-oauth#readme"
+}
